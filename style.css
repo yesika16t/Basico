@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background: rgb(240, 227, 227);
+   }
+    
+   .container {
+       background: black;
+       display: flex; 
+       justify-content: flex-start;
+       align-items: center
+       
+   }
+   
+   .uno {
+      background:#f81602;
+      width: 200px;
+      height: 200px;
+      border-radius: 15px;
+   }
+   
+   .dos {
+       background: rgb(255, 217, 0);
+       width: 200px;
+       height: 200px;
+       border-radius: 15px;
+    }
